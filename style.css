@@ -1,0 +1,22 @@
+.cor45{ background-color: red;}
+.cor1{ background-color:blueviolet;}
+.cor2{ background-color:blanchedalmond;}
+.cor3{ background-color:aquamarine;}
+.cor4{ background-color:brown;}
+.cor5{ background-color:blue;}
+.cor6{ background-color:yellow;}
+
+h1{  font-family: 'Arial';  
+    font-size: 14pt; 
+    color: blue;
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-right: 150px;
+      margin-left: 80px;
+}
+
+body { background-color:yellow;
+    color:blue;
+    font-family:'Times';
+    font-size:14pt;
+}	
